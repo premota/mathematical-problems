@@ -1,1 +1,1 @@
-# palindromic-problem
+this focuses on mathematical problems
